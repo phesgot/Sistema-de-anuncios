@@ -1,0 +1,14 @@
+﻿.imgLista{
+	width: 140px;
+	height: 40px;
+	border: 2px solid #EEE;
+}
+#listarEmpresa table tr td{
+	padding: 10px;
+	
+}
+
+#listarEmpresa table tbody tr:nth-chilf(2n+1){
+	background: blue;
+	
+}

@@ -1,0 +1,66 @@
+﻿
+.article-slide .carousel-indicators {
+    bottom: 0;
+    left: 0;
+    margin-left: 5px;
+    width: 100%;
+	
+}
+
+
+.article-slide .carousel-indicators li {
+    border: medium none;
+    border-radius: 0;
+    float: left;
+    height: 58px;
+    margin-bottom: 5px;
+    margin-left: 0;
+    margin-right: 5px !important;
+    margin-top: 0;
+    width: 9.5%;
+}
+
+.article-slide .carousel-indicators img {
+    border: 2px solid #FFFFFF;
+    float: left;
+    height: 100%;
+    left: 0;
+    width: 100%;
+}
+
+.article-slide .carousel-indicators .active img {
+    border: 2px solid #428BCA;
+
+}
+
+#centro{
+	height: 100%;
+    width: auto;
+	position: center;
+	
+
+}
+
+
+#video{
+	margin-top: 68px;
+	margin-left: 0px;
+	margin-right: 0px;
+	position: center;
+}
+#slide{
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-top: 10px;
+	position: center;
+
+}
+
+#img{
+	
+	height: 70%;
+}
+#listview{
+	border-top: 1px solid green;
+}
+
